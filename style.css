@@ -1,0 +1,109 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(0, 0, 0);
+    background-color: beige;
+}
+
+h1  {
+    font-size: 42px;
+    text-align:left;
+    margin: 20px 50px;
+}
+
+h2 {
+    font-size: 28px;
+    text-align:center;
+    margin: 20px 50px;
+}
+
+.story {
+    display: flex;
+    margin: 50px 10px;
+    text-align: left;
+}
+
+.ingredients {
+    display: flex;
+    margin: 50px 10px;
+    text-align: left;
+}
+.fun-gif {
+    margin: 20px 40px;
+    height: 500px;
+    width: 600px;
+}
+.cabbage-rolls1 {
+    margin: auto;
+    height: 400px;
+    width: 500px;
+}
+
+.cabbage-rolls2 {
+    height:460px;
+    width:760px;
+    margin: 30px 50px;
+}
+
+.cabbage-rolls3 {
+    height:350px;
+    width:350px;
+    margin: 30px 50px;
+}
+
+.cabbage-rolls4 {
+    height:450px;
+    width:450px;
+    margin: 30px 50px;
+}
+
+.cabbage-rolls5 {
+    height:450px;
+    width:450px;
+    margin: 50px 130px;
+}
+
+.step-one {
+    display: flex;
+    margin: 50px 10px;
+}
+
+.step-three {
+    display:flex;
+    margin: 90px 50px;
+}
+
+.step-four {
+    display:flex;
+    margin: 90px 52px;
+}
+
+.step-five {
+
+}
+
+.step-six {
+    margin: 100px 200px;
+    display: flex;
+}
+
+.text-one {
+    margin: 50px 22px;
+    text-align: left;
+}
+
+.text-two {
+    margin: 50px 70px;
+    font-size: 15px;
+
+}
+
+.text-three {
+    text-align: left;
+    margin: 100px 28px;
+    font-size: 18px;
+}
+
+.text-four {
+    text-align: left;
+    margin: 50px 50px;
+}
